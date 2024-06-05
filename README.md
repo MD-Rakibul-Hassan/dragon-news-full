@@ -1,8 +1,15 @@
-# React + Vite
+# Dragon news 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Link of this website : https://dragon-news-a8645.firebaseapp.com/
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+@Fetures of this website :
+1. firebase authentication
+*scocal login : google and github
+*email password based login system
+*user credential observer : onAuthStateChange
+2. react-router-dom
+*routing one page to another page
+*private route
+*details page
+*navigate after login or redirect after login
+3. context api for state menagement
